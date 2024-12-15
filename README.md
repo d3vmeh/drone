@@ -1,4 +1,4 @@
-# drone
+# Drone
 Custom 3D-printed drone project, initially designed and tested in 2023 
 
 ## Project Description
